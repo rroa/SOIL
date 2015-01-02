@@ -1,4 +1,4 @@
-## Simple OpenGL Image Library
+# Simple OpenGL Image Library
 
 Introduction:
 =========
